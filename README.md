@@ -9,6 +9,8 @@ taken back: a poppy meadow, an overgrown Ferris wheel half-sunk in a pond, a for
 tree. The day runs from azure noon through golden hour into a huge impasto sunset; at dusk the old lamps come
 back on one after another and the wheel lights up and turns again.
 
+**Watch it:** the 1080p film (40 s, with sound) is attached to the [latest release](https://github.com/Leonxlnx/beautiful-wonderland/releases/latest).
+
 | | |
 |---|---|
 | ![Poppy meadow, kite at the lens](docs/stills/meadow.jpg) | ![Chase down the jetty](docs/stills/jetty.jpg) |
@@ -64,7 +66,8 @@ mkdir -p public/audio && ffmpeg -i out/audio/mix.wav -b:a 192k public/audio/mix.
 Music: "Classical 3" by Jonny S. (Mixkit Stock Music Free License). Sound effects: Mixkit and Freesound (CC0).
 
 ## Not in this repository
-- The rendered videos (3840×2160 master and a 1080p version): each is larger than GitHub's 100 MB file limit.
+- The rendered videos as repository files: each is larger than GitHub's 100 MB file limit. The 1080p film is
+  attached to the [latest release](https://github.com/Leonxlnx/beautiful-wonderland/releases/latest); the 3840×2160 master is not published.
 - The reference paintings that set the style brief: they are other artists' work. Only their design language was
   studied; every motif in this world is original.
 
