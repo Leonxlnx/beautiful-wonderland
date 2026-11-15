@@ -1,0 +1,22 @@
+{
+  "name": "beautiful-wonderland",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A small painted world in three.js — real-time demo and offline 4K film renderer",
+  "scripts": {
+    "dev": "vite --port 5173 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --port 5173 --strictPort",
+    "shot": "node tools/shot.mjs",
+    "render": "node tools/render.mjs"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^24.0.0",
+    "sharp": "^0.34.0",
+    "vite": "^7.0.0"
+  }
+}

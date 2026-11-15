@@ -1,0 +1,201 @@
+{
+  "duration": 40,
+  "music": {
+    "file": "assets/audio/music/classical_3_jonny_s_mixkit.mp3",
+    "start": 22.57,
+    "gain": 0,
+    "fadeIn": 0.02,
+    "fadeOut": 2.6
+  },
+  "sfx": [
+    {
+      "file": "assets/audio/sfx/meadow_wind_grass_bed.mp3",
+      "at": 0,
+      "start": 12,
+      "dur": 40,
+      "gain": -9,
+      "fadeIn": 0.25,
+      "fadeOut": 3
+    },
+    {
+      "file": "assets/audio/sfx/birdsong_day_loop.wav",
+      "at": 0,
+      "start": 2,
+      "dur": 11.6,
+      "gain": -21,
+      "fadeIn": 0.2,
+      "fadeOut": 2.2
+    },
+    {
+      "file": "assets/audio/sfx/wind_gust_whoosh_a.mp3",
+      "at": 0,
+      "start": 1.1,
+      "dur": 2.3,
+      "gain": -17,
+      "fadeIn": 0.05,
+      "fadeOut": 0.8
+    },
+    {
+      "file": "assets/audio/sfx/kite_cloth_flapping.mp3",
+      "at": 0,
+      "start": 7.5,
+      "dur": 3.9,
+      "gain": -7,
+      "fadeIn": 0.05,
+      "fadeOut": 0.7
+    },
+    {
+      "file": "assets/audio/sfx/birds_flock_take_off_wings.mp3",
+      "at": 0,
+      "start": 1,
+      "dur": 5,
+      "gain": -6,
+      "fadeIn": 0.3,
+      "fadeOut": 2
+    },
+    {
+      "file": "assets/audio/sfx/pond_water_lapping.mp3",
+      "at": 3.6,
+      "start": 2,
+      "dur": 4,
+      "gain": -11,
+      "fadeIn": 0.4,
+      "fadeOut": 0.7
+    },
+    {
+      "file": "assets/audio/sfx/flag_flapping_wind_long.mp3",
+      "at": 11.1,
+      "start": 25,
+      "dur": 9.5,
+      "gain": -12.5,
+      "fadeIn": 0.8,
+      "fadeOut": 2.5
+    },
+    {
+      "file": "assets/audio/sfx/wind_gust_whoosh_b.wav",
+      "at": 13.75,
+      "start": 0,
+      "dur": 3.2,
+      "gain": -20,
+      "fadeIn": 0.05,
+      "fadeOut": 0.8
+    },
+    {
+      "file": "assets/audio/sfx/wind_gust_whoosh_a.mp3",
+      "at": 20.6,
+      "start": 0,
+      "dur": 3.4,
+      "gain": -13,
+      "fadeIn": 0.05,
+      "fadeOut": 1
+    },
+    {
+      "file": "assets/audio/sfx/reveal_low_boom.mp3",
+      "at": 21.7,
+      "start": 0,
+      "dur": 6,
+      "gain": -11,
+      "fadeIn": 0.02,
+      "fadeOut": 3
+    },
+    {
+      "file": "assets/audio/sfx/birds_flock_take_off_wings.mp3",
+      "at": 22.2,
+      "start": 1.4,
+      "dur": 4,
+      "gain": -8,
+      "fadeIn": 0.3,
+      "fadeOut": 2
+    },
+    {
+      "file": "assets/audio/sfx/pond_water_lapping.mp3",
+      "at": 22.1,
+      "start": 1,
+      "dur": 17.9,
+      "gain": -10,
+      "fadeIn": 2,
+      "fadeOut": 2.6
+    },
+    {
+      "file": "assets/audio/sfx/lights_on_shimmer_swell_b.wav",
+      "at": 24.1,
+      "start": 0,
+      "dur": 5,
+      "gain": -15.5,
+      "fadeIn": 0.05,
+      "fadeOut": 1.5
+    },
+    {
+      "file": "assets/audio/sfx/dusk_crickets_loop.wav",
+      "at": 26,
+      "start": 0,
+      "dur": 14,
+      "gain": -13,
+      "fadeIn": 4,
+      "fadeOut": 2.6
+    },
+    {
+      "file": "assets/audio/sfx/lamp_pull_chain_switch.wav",
+      "at": 29.1,
+      "start": 0,
+      "dur": 1.2,
+      "gain": -12,
+      "fadeIn": 0.01,
+      "fadeOut": 0.2
+    },
+    {
+      "file": "assets/audio/sfx/lamp_pull_chain_switch.wav",
+      "at": 30.05,
+      "start": 0,
+      "dur": 1.2,
+      "gain": -12,
+      "fadeIn": 0.01,
+      "fadeOut": 0.2,
+      "pan": -0.25
+    },
+    {
+      "file": "assets/audio/sfx/lamp_pull_chain_switch.wav",
+      "at": 30.95,
+      "start": 0,
+      "dur": 1.2,
+      "gain": -12,
+      "fadeIn": 0.01,
+      "fadeOut": 0.2,
+      "pan": 0.25
+    },
+    {
+      "file": "assets/audio/sfx/lights_on_shimmer_swell_a.wav",
+      "at": 31.6,
+      "start": 0,
+      "dur": 5,
+      "gain": -13,
+      "fadeIn": 0.05,
+      "fadeOut": 1.5
+    },
+    {
+      "file": "assets/audio/sfx/lights_on_heavy_switch_clunk.mp3",
+      "at": 32.2,
+      "start": 0,
+      "dur": 2.6,
+      "gain": -6,
+      "fadeIn": 0.01,
+      "fadeOut": 0.8
+    },
+    {
+      "file": "assets/audio/sfx/ferris_wheel_metal_creak_slow.mp3",
+      "at": 33.3,
+      "start": 1,
+      "dur": 6.4,
+      "gain": -6.5,
+      "fadeIn": 0.8,
+      "fadeOut": 2.6
+    }
+  ],
+  "target": {
+    "lufs": -14,
+    "tp": -1.5
+  },
+  "duck": {
+    "enabled": false
+  }
+}

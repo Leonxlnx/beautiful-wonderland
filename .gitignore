@@ -1,0 +1,16 @@
+node_modules/
+dist/
+out/
+*.log
+
+# working notes and style references (other artists' paintings) stay local
+STATE.md
+refs/
+
+# third-party audio is not redistributed - see assets/audio/CREDITS.md
+assets/audio/music/*.mp3
+assets/audio/music/*.wav
+assets/audio/sfx/*.mp3
+assets/audio/sfx/*.wav
+assets/audio/analysis/
+public/audio/
